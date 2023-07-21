@@ -1,34 +1,38 @@
 body {
-  color:#6528f7;
-  background-color:grey;  
+  color: #6528f7;
+  background-color: grey;
 }
-h1{
-  text-align:center;
+h1 {
+  text-align: center;
 }
-h2{
-  color:blue;
+h2 {
+  color: blue;
 }
-ul{
-  color:cyan;
+ul {
+  color: cyan;
 }
-ol{
-  color:cyan;
+ol {
+  color: cyan;
 }
-#jeff{
-  width:400px;
+#jeff {
+  width: 400px;
 }
-#figure{
-  width:400px;
+#figure {
+  width: 400px;
 }
-#BotW{
-  width:400px;
+#BotW {
+  width: 400px;
 }
-#TotK{
-  width:400px;
+#TotK {
+  width: 400px;
 }
-#Minecraft{
-  width:400px;
+#Minecraft {
+  width: 400px;
 }
-#taf{
-  text-align:center;
+#taf {
+  text-align: center;
+}
+.tafgif {
+  display: block;
+  text-align: center;
 }
